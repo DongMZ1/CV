@@ -1,0 +1,35 @@
+{
+  "Home": "Home",
+  "MDS": "MyDegreeAndSkill",
+  "Mgit": "MyGithub",
+  "MProject": "MyProjectList",
+  "ContactMe": "ContactMe",
+
+  "HPaboutme": "May I introduce myself:",
+  "HPp1beforeA": "My name is Mingzhou Dong, and I am currently enrolling in Major Computer Science at ",
+  "HPp1A": "Mcgill University ",
+  "HPp1afterA": "in Montreal, Canada, and will graduate in Aug, 2021.",
+  "HPp2": "I am a huge fan of building and designing beautiful and practical FrontEnd with HTML, CSS, Javascript especially by ReactJS Framework, Connect The Frontend with ExpressJs Backend and a SQL database. My dream job is to be a outstanding full stack developer mastering in Programming and Algorithm but also designing for solving customers needs!",
+  "HPp3": "My Storyline:",
+  "HPp4": "Mcgill Univeristy Major Computer Science in Faculty of Science. (2017.9 - now)",
+  "HPp5": "Sir Frederick Banting SS, London, Ontario, Canada. (2015.9 - 2017.7)",
+  "HPp6": "In China. (before 2015.7)",
+  "HPp7": "Borned in 1999.",
+
+  "DP1":"Programming Skills:",
+  "DP2":"HTML, CSS3, Javascript, Bootstrap4, ReactJS, ExpressJs, MongoDB.",
+  "DP3":"OOP java 2D graphic game development(Game of Andor) experience ",
+  "DP4":"Basic Machine Learning Skill including LR, SVM, CNN for Multiclass classification and analyzing visual imagery(cifar100) with python numpy, sklearn, tensorflow, pytorch Library.",
+  "DP5":"Design Pattern in Java(ie: flyweight, observer).",
+  "DP6":"A little bit understanding of C, C++, bash, and Operating System.",
+  "DP7":"Certificate of Diploma and official transcript.",
+  "DP8":"See end of this page.",
+
+  "PL1":"Total of ",
+  "PL2":" Projects were built",
+  "PL3":"Group project of my web developement course for recreating our school website ",
+  "PL4":"Current Website built by myself as my personal CV",
+  "PL5":"",
+
+  "footer":"Copyright © Design and Build by MINGZHOU DONG, 2020 | ALL RIGHTS RESERVED"
+}

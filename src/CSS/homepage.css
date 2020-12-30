@@ -1,0 +1,116 @@
+.homebackground{
+    background-image: url("../pictures/jhouse.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .homebackground {
+    height: 2000px;
+  }
+
+  .footer{
+    display: none;
+  }
+}
+
+.body{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.3em;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    word-spacing: 0.2em;
+    height: 1080px;
+}
+
+/*animation*/
+.text-focus-in {
+	-webkit-animation: text-focus-in 2s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.5s both;
+	        animation: text-focus-in 2s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.5s both;
+}
+
+.text-focus-in-nodelay {
+	-webkit-animation: text-focus-in 2s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+	        animation: text-focus-in 2s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
+@-webkit-keyframes text-focus-in {
+    0% {
+      -webkit-filter: blur(12px);
+              filter: blur(12px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-filter: blur(0px);
+              filter: blur(0px);
+      opacity: 1;
+    }
+  }
+  @keyframes text-focus-in {
+    0% {
+      -webkit-filter: blur(12px);
+              filter: blur(12px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-filter: blur(0px);
+              filter: blur(0px);
+      opacity: 1;
+    }
+  }
+
+  .tracking-in-contract {
+	-webkit-animation: tracking-in-contract 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) 1s both;
+	        animation: tracking-in-contract 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) 1s both;
+}
+
+@-webkit-keyframes tracking-in-contract {
+    0% {
+      letter-spacing: 1em;
+      opacity: 0;
+    }
+    40% {
+      opacity: 0.6;
+    }
+    100% {
+      letter-spacing: normal;
+      opacity: 1;
+    }
+  }
+  @keyframes tracking-in-contract {
+    0% {
+      letter-spacing: 1em;
+      opacity: 0;
+    }
+    40% {
+      opacity: 0.6;
+    }
+    100% {
+      letter-spacing: normal;
+      opacity: 1;
+    }
+  }
+
+ 
+
+  
+
+  .footer{
+    position: relative;
+    height: 100px;
+    bottom: 0px;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .border1{
+    border: solid white;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 30px;
+    border-width:medium;
+  }
