@@ -33,7 +33,7 @@ class Projectlist extends Component {
                     {t('PL3')} </h5>
                     <h5 className="text-focus-in-6" style={{color:"yellow"}}>
                     <a href="https://dongmz1.github.io/CV/" style={{color:"yellow", paddingRight:"0.5em"}}><FiExternalLink fontSize="40px" /></a>
-                    <a href="" style={{color:"yellow", paddingRight:"0.5em"}} ><BiGitRepoForked fontSize="40px" /></a>  
+                    <a href="https://github.com/DongMZ1/CV" style={{color:"yellow", paddingRight:"0.5em"}} ><BiGitRepoForked fontSize="40px" /></a>  
                     {t('PL4')} </h5>
 
                </div>
