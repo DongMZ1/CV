@@ -16,6 +16,7 @@ class Contactme extends Component {
                    <div className="contactbackground">
                        <TopNavbar />
                        <div className="body"></div>
+                       Hello
                        <div className = "footer">{t('footer')}</div>
                    </div>
             )}
