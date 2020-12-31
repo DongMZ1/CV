@@ -15,8 +15,10 @@ class Contactme extends Component {
             { (t, { i18n }) => (
                    <div className="contactbackground">
                        <TopNavbar />
-                       <div className="body"></div>
-                       Hello
+                       <div className="body">
+                           Hello
+                       </div>
+                       
                        <div className = "footer">{t('footer')}</div>
                    </div>
             )}
