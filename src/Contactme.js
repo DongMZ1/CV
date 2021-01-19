@@ -3,11 +3,14 @@ import TopNavbar from './TopNavbar'
 import { Translation } from 'react-i18next';
 import './CSS/homepage.css'
 import './CSS/contactme.css'
+import {AiFillWechat} from 'react-icons/ai'
 class Contactme extends Component {
     constructor(props) {
         super(props);
         this.state = {  }
     }
+
+    
     render() { 
         return ( 
             
@@ -16,7 +19,7 @@ class Contactme extends Component {
                    <div className="contactbackground">
                        <TopNavbar />
                        <div className="body">
-                           Hello
+                       <AiFillWechat fontSize="40px"/> : Partington
                        </div>
                        
                        <div className = "footer">{t('footer')}</div>

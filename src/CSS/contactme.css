@@ -4,3 +4,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.border2{
+    border: solid white;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 30px;
+    border-width:medium;
+}
