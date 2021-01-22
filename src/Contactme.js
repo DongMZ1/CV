@@ -19,7 +19,9 @@ class Contactme extends Component {
                    <div className="contactbackground">
                        <TopNavbar />
                        <div className="body">
+                           <div className="text-shadow-pop-top-2-1">
                        <AiFillWechat fontSize="40px"/> : Partington
+                       </div>
                        </div>
                        
                        <div className = "footer">{t('footer')}</div>
