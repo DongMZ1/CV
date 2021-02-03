@@ -22,6 +22,8 @@ class Contactme extends Component {
           }, (error) => {
               console.log(error.text);
           });
+          e.target.reset();
+          alert("U have sumbitted your message!");
       }
     
     
