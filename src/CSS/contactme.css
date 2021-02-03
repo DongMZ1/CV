@@ -18,7 +18,7 @@
 	        animation: text-shadow-pop-top 2s 1s both;
 }
 
-@-webkit-keyframes text-shadow-pop-top-2-1 {
+@-webkit-keyframes text-shadow-pop-top {
     0% {
       text-shadow: 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555;
       -webkit-transform: translateY(0);

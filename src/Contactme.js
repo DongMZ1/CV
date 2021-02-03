@@ -5,6 +5,7 @@ import './CSS/homepage.css'
 import './CSS/contactme.css'
 import {AiFillWechat} from 'react-icons/ai'
 import emailjs from 'emailjs-com';
+import Typewriter from 'typewriter-effect'
 class Contactme extends Component {
     constructor(props) {
         super(props);
@@ -34,7 +35,8 @@ class Contactme extends Component {
                        <TopNavbar />
                        <div className="body">
                            <div className="text-shadow-pop-top-2-1">
-                       <AiFillWechat fontSize="40px"/> : Partington
+                           <AiFillWechat fontSize="40px"/> : Partington
+                           
                        </div>
                        <br></br>
                        <br></br>

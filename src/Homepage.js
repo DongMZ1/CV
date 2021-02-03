@@ -3,6 +3,7 @@ import TopNavbar from './TopNavbar'
 import './CSS/homepage.css'
 import{useTranslation} from 'react-i18next'
 import { Translation } from 'react-i18next';
+import Typewriter from 'typewriter-effect';
 class Homepage extends Component {
     constructor(props) {
         super(props);
@@ -18,7 +19,8 @@ class Homepage extends Component {
                  <TopNavbar />
                  <div className ="body">
                    <div className = "border1 text-focus-in-nodelay">
-                   <h1 className ="text-focus-in" style={{paddingTop: "3%"}}>{t('HPaboutme')} </h1>
+                   <h1 className ="text-focus-in" style={{paddingTop: "3%"}}>{t('HPp1beforeA')}
+                      </h1>
                    <br />
                    <p className="tracking-in-contract">
                      {t('HPp1beforeA')}
