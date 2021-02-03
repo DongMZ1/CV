@@ -38,7 +38,7 @@ class Contactme extends Component {
                        </div>
                        <br></br>
                        <br></br>
-                       <form className="emailform" onSubmit={this.sendEmail}>
+                       <form className="emailform fade-in-left-contactme" onSubmit={this.sendEmail}>
                          <h5>{t('CT1')}</h5>
                          <input type="text" name="user_name" required
                         />

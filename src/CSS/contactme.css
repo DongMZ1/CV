@@ -75,3 +75,33 @@ input[type="submit"]
     width: 80%;
     height: 300px;
 }
+
+.fade-in-left-contactme {
+	-webkit-animation: fade-in-left-contactme 2.5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 1s both;
+	        animation: fade-in-left-contactme 2.5s cubic-bezier(0.390, 0.575, 0.565, 1.000) 1s both;
+}
+
+@-webkit-keyframes fade-in-left-contactme {
+    0% {
+      -webkit-transform: translateX(100px);
+              transform: translateX(100px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  @keyframes fade-in-left-contactme {
+    0% {
+      -webkit-transform: translateX(100px);
+              transform: translateX(100px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+      opacity: 1;
+    }
+  }
