@@ -17,11 +17,11 @@
   "HPp7": "Borned in 1999.",
 
   "DP1":"Programming Skills:",
-  "DP2":"Basic Understanding of Git/Github for performing group task, HTML, CSS3, Javascript, Bootstrap4, ReactJS, ExpressJs, MongoDB.",
+  "DP2":"Basic Understanding of Git/Github for performing group task, HTML, CSS3, CSS animation, Javascript, Bootstrap4, ReactJS, NodeJS -> ExpressJs(REST api), MongoDB.",
   "DP3":"OOP java 2D graphic game development(Game of Andor) experience ",
   "DP4":"Basic Machine Learning Skill including LR, SVM, CNN for Multiclass classification and analyzing visual imagery(cifar100) with python numpy, sklearn, tensorflow, pytorch Library.",
   "DP5":"Design Pattern in Java(ie: flyweight, observer).",
-  "DP6":"A little bit understanding of C, C++, bash, and Operating System.",
+  "DP6":"A little bit understanding of redux(action, payload, reducer, etc) C, C++, bash, and Operating System.",
   "DP7":"Certificate of Diploma and official transcript.",
   "DP8":"See end of this page.",
 
@@ -30,6 +30,12 @@
   "PL3":"Group project of my web developement course for recreating our school website ",
   "PL4":"Current Website built by myself as my personal CV",
   "PL5":"",
+
+  "CT1":"how should I address you?",
+  "CT2":"Sir/Miss your email(So I can contact you later):",
+  "CT3":"Leave me any message, I will reply to you ASAP.",
+  "CT4":"Submit",
+
 
   "footer":"Copyright © Design and Build by MINGZHOU DONG, 2020 | ALL RIGHTS RESERVED"
 }

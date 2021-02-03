@@ -43,3 +43,35 @@
     }
   }
 
+  
+  .emailform{
+    background-color: transparent;
+  }
+
+  input[type="text"], input[type="email"]
+{
+    background: transparent;
+    border: solid white;
+    color: snow;
+    border-width:medium;
+    border-radius: 20px;
+    width: 50%;
+}
+
+input[type="submit"]
+{
+  background: transparent;
+    border: solid white;
+    color: snow;
+    border-width:medium;
+    border-radius: 20px;
+}
+.contactmetextarea{
+  background: transparent;
+    border: solid white;
+    color: snow;
+    border-width:medium;
+    border-radius: 20px;
+    width: 80%;
+    height: 300px;
+}

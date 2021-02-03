@@ -17,7 +17,7 @@
   "HPp7": "出生于1999年。",
 
   "DP1": "编程技能:",
-  "DP2": "小组项目中Git/Github的基本理解与使用，HTML, CSS3, Javascript, Bootstrap4, ReactJS, ExpressJs, MongoDB。",
+  "DP2": "小组项目中Git/Github的基本理解与使用HTML, CSS3, CSS animation, Javascript, Bootstrap4, ReactJS, NodeJS -> ExpressJs(REST api), MongoDB。",
   "DP3": "2D的Java面向编程开发经验",
   "DP4": "机械学习技能与实践经验，例如支持向量机，朴素贝叶斯算法, 随机森林, 卷积神经网络等通过python的numpy, sklearn, tensorflow, pytorch图书馆。",
   "DP5": "Java设计模式(比如: flyweight, observer)。",
@@ -30,6 +30,11 @@
   "PL3":"重新设计和编写我们学校的网站",
   "PL4":"这个完全由我自己编写的个人网站",
   "PL5":"",
+
+  "CT1":"怎么称呼您？",
+  "CT2":"先生/女生， 您的邮箱号码（方便我联系到您）",
+  "CT3":"您联系我是为了什么？我会第一时间回您消息，如果方便可以添加我个人微信",
+  "CT4":"提交",
 
 
   "footer":"© 董明洲独自设计与开发, 2020 | 版权所有"

@@ -36,15 +36,23 @@ class Contactme extends Component {
                            <div className="text-shadow-pop-top-2-1">
                        <AiFillWechat fontSize="40px"/> : Partington
                        </div>
-                       
-                       <form className="" onSubmit={this.sendEmail}>
-                         <label>Your Name</label>
-                         <input type="text" name="user_name" />
-                         <label>Email</label>
-                         <input type="email" name="user_email" />
-                         <label>Message</label>
-                         <textarea name="message" />
-                     <input type="submit" value="Submit" />
+                       <br></br>
+                       <br></br>
+                       <form className="emailform" onSubmit={this.sendEmail}>
+                         <h5>{t('CT1')}</h5>
+                         <input type="text" name="user_name" required
+                        />
+                         <br />
+                         <br />
+                         <h5>{t('CT2')}</h5>
+                         <input type="email" name="user_email" required />
+                         <br />
+                         <br />
+                         <h5>{t('CT3')}</h5>
+                         <textarea className="contactmetextarea" name="message" required />
+                         <br />
+                         <br />
+                     <input type="submit" value={t('CT4')} />
     </form>
                        </div>
                        
