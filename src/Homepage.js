@@ -19,8 +19,26 @@ class Homepage extends Component {
                  <TopNavbar />
                  <div className ="body">
                    <div className = "border1 text-focus-in-nodelay">
-                   <h1 className ="text-focus-in" style={{paddingTop: "3%"}}>{t('HPp1beforeA')}
-                      </h1>
+                   <br></br>
+                   <Typewriter
+  onInit={(typewriter) => {
+    typewriter
+      .pauseFor(1000)
+      .typeString('<h1>Welcome to my Website!!!</h1>')
+      .pauseFor(500)
+      .deleteAll()
+      .typeString('<h1>I am a "future" full-stack developer!')
+      .pauseFor(500)
+      .deleteAll()
+      .typeString('<h1>But currently a student in Mcgill</h1>')
+      .pauseFor(500)
+      .deleteAll()
+      .typeString('<h1>Here is my little story Since 1999</h1>')
+      .pauseFor(1000)
+      .deleteAll()
+      .start();
+  }}
+/>
                    <br />
                    <p className="tracking-in-contract">
                      {t('HPp1beforeA')}
