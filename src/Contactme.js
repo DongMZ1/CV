@@ -16,7 +16,7 @@ class Contactme extends Component {
     sendEmail(e) {
         e.preventDefault();
     
-        emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID')
+        emailjs.sendForm('service_jn3bahw', 'template_t6gwg3q', e.target, 'user_4LANmMizCrEL5z0PzTtL7')
           .then((result) => {
               console.log(result.text);
           }, (error) => {
