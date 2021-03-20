@@ -1,31 +1,30 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.ec9e258d.chunk.css",
-    "main.js": "/CV/static/js/main.4009b0c2.chunk.js",
-    "main.js.map": "/CV/static/js/main.4009b0c2.chunk.js.map",
-    "runtime-main.js": "/CV/static/js/runtime-main.d6bfd1f4.js",
-    "runtime-main.js.map": "/CV/static/js/runtime-main.d6bfd1f4.js.map",
+    "main.css": "/CV/static/css/main.5f3bfe1e.chunk.css",
+    "main.js": "/CV/static/js/main.686cc1aa.chunk.js",
+    "main.js.map": "/CV/static/js/main.686cc1aa.chunk.js.map",
+    "runtime-main.js": "/CV/static/js/runtime-main.98d759d2.js",
+    "runtime-main.js.map": "/CV/static/js/runtime-main.98d759d2.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/CV/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.ffe73fea.chunk.js": "/CV/static/js/2.ffe73fea.chunk.js",
-    "static/js/2.ffe73fea.chunk.js.map": "/CV/static/js/2.ffe73fea.chunk.js.map",
-    "static/js/3.484a2a39.chunk.js": "/CV/static/js/3.484a2a39.chunk.js",
-    "static/js/3.484a2a39.chunk.js.map": "/CV/static/js/3.484a2a39.chunk.js.map",
+    "static/js/2.3e16b63a.chunk.js": "/CV/static/js/2.3e16b63a.chunk.js",
+    "static/js/2.3e16b63a.chunk.js.map": "/CV/static/js/2.3e16b63a.chunk.js.map",
+    "static/js/3.7954693c.chunk.js": "/CV/static/js/3.7954693c.chunk.js",
+    "static/js/3.7954693c.chunk.js.map": "/CV/static/js/3.7954693c.chunk.js.map",
     "index.html": "/CV/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/CV/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.ec9e258d.chunk.css.map": "/CV/static/css/main.ec9e258d.chunk.css.map",
-    "static/js/2.ffe73fea.chunk.js.LICENSE.txt": "/CV/static/js/2.ffe73fea.chunk.js.LICENSE.txt",
+    "static/css/main.5f3bfe1e.chunk.css.map": "/CV/static/css/main.5f3bfe1e.chunk.css.map",
+    "static/js/2.3e16b63a.chunk.js.LICENSE.txt": "/CV/static/js/2.3e16b63a.chunk.js.LICENSE.txt",
     "static/media/contactme.css": "/CV/static/media/city.03d9ae37.jpg",
     "static/media/degree.css": "/CV/static/media/japanese.c0458189.gif",
     "static/media/homepage.css": "/CV/static/media/jhouse.9aecc443.gif",
     "static/media/logo.6ce24c58.svg": "/CV/static/media/logo.6ce24c58.svg",
-    "static/media/projectlist.css": "/CV/static/media/projectlist.ebd33bfe.gif",
-    "static/media/transcript.b1364f71.pdf": "/CV/static/media/transcript.b1364f71.pdf"
+    "static/media/projectlist.css": "/CV/static/media/projectlist.ebd33bfe.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6bfd1f4.js",
+    "static/js/runtime-main.98d759d2.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.ffe73fea.chunk.js",
-    "static/css/main.ec9e258d.chunk.css",
-    "static/js/main.4009b0c2.chunk.js"
+    "static/js/2.3e16b63a.chunk.js",
+    "static/css/main.5f3bfe1e.chunk.css",
+    "static/js/main.686cc1aa.chunk.js"
   ]
 }
